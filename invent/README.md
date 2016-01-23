@@ -1,3 +1,3 @@
 # Contributing Through Invention
 
-[jinja2 for wiki markup](wiki/Home)
+ - [ ] [jinja2 for wiki markup](https://github.com/mschober/eca201/wiki/invention01)
