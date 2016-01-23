@@ -1,3 +1,4 @@
+```python
 class HelloWorldEmpty:
     """
     http://stackoverflow.com/questions/4015417/python-class-inherits-object
@@ -12,7 +13,9 @@ class HelloWorldEmpty:
     """
     # Homework 1 - save a copy of the text from running the help command on this class.
     pass
+```
 
+```python
 class HelloWorld(object):
     """
     Invoke me in a terminal with
@@ -38,3 +41,4 @@ class HelloWorld(object):
 if __name__ == "__main__":
     hi =  HelloWorld()
     print hi
+```
