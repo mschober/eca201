@@ -1,3 +1,3 @@
 # Contributing Through Invention
 
-[jinja2 for wiki markup](Home)
+[jinja2 for wiki markup](wiki/Home)
