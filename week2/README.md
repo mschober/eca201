@@ -1,7 +1,11 @@
+### Hello Object World
+* In the canonical "Hello World!" tradition, lets see our first class...
+* copy/paste the code block below into a python shell
+[inherit from object]: http://stackoverflow.com/questions/4015417/python-class-inherits-object
+
 ```python
-class HelloWorldEmpty:
+class HelloObjectWorld(object):
     """
-    http://stackoverflow.com/questions/4015417/python-class-inherits-object
     This is a docstring. It tells you all about the class.
     In an interactive shell you can see this help text in a nice format by doing
     help(<object>)
@@ -11,9 +15,19 @@ class HelloWorldEmpty:
     hi = HelloWorldEmpty()
     help(hi)
     """
-    # Homework 1 - save a copy of the text from running the help command on this class.
     pass
 ```
+
+### This introduces two new keywords
+* the `class` keyword
+    * used to create a new namespace for methods and variables
+* the `pass` keyword
+    * place holder when a class or method has an empty body
+
+    ###### Classes are a great way to *encapsulate* associated variables and functions
+    * code is easier to maintain by reusing small building blocks
+    * making the building blocks simple and focused on 1 *concern* is ideal
+    * when building a solution the building blocks can be fit together to solve problems
 
 ```python
 class HelloWorld(object):
@@ -42,3 +56,8 @@ if __name__ == "__main__":
     hi =  HelloWorld()
     print hi
 ```
+
+
+### Homework
+* save a copy of the text from running the help command from HelloObjectWorld.
+* 
