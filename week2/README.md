@@ -75,6 +75,13 @@ class HelloToStringInheritance(object):
         """
         return self.__class__.__name__
     def __repr__(self):
+        """
+        The __str__ method is usig the classname as the string to return when printing.
+        What is __repr__ for then? Python does something different when you let the interpreter
+        inspect and display a variable without a print statement explicitly. This is the
+        representation of the object and calls the __repr__ method. By having
+        __repr__ delegate to __str__ both styles will print the same thing.
+        """
         return self.__str__()
 if __name__ == "__main__":
     hi =  HelloWorld()
