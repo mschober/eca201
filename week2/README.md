@@ -60,10 +60,6 @@ class HelloObjectWorld(object):
 
 ```python
 class HelloToStringInheritance(object):
-    """
-    Invoke me in a terminal with
-    python -i hello.py
-    """
 
     def __str__(self):
         """
