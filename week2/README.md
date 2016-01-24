@@ -60,7 +60,6 @@ class HelloObjectWorld(object):
 
 ```python
 class HelloToStringInheritance(object):
-
     def __str__(self):
         """
         Underbar underbar methods (__methodname__) are a convention for methods
@@ -75,10 +74,8 @@ class HelloToStringInheritance(object):
         to define how the object is printed.
         """
         return self.__class__.__name__
-
     def __repr__(self):
         return self.__str__()
-
 if __name__ == "__main__":
     hi =  HelloWorld()
     print hi
