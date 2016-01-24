@@ -45,7 +45,7 @@ class HelloObjectWorld(object):
 
     ###### Classes are a great way to *encapsulate* associated variables and functions
     * code is easier to maintain by reusing small building blocks
-    * making the building blocks simple and focused on 1 *concern* is ideal
+    * making the building blocks simple and focused on [*one concern*](https://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) is ideal
     * when building a solution the building blocks can be fit together to solve problems
 
 [ __underbar_underbar ](https://docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
