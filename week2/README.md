@@ -39,7 +39,7 @@ class HelloObjectWorld(object):
 * the `class` keyword
     * used to create a new [*namespace*](https://docs.python.org/2/tutorial/classes.html#python-scopes-and-namespaces) for methods and variables
 
-    ###### When a class definition is entered, a new namespace is created, and used as the local scope -> :tm:
+    ###### When a class definition is entered, a new namespace is created, and used as the local scope -> [:tm:](https://docs.python.org/2/tutorial/classes.html#class-definition-syntax)
 * the `pass` keyword
     * place holder when a class or method has an empty body
 
