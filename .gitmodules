@@ -2,5 +2,5 @@
 	path = materials/eca-excel
 	url = https://github.com/mschober/eca-excel
 [submodule "eca201.wiki"]
-	path = eca201.wiki
+	path = materials/eca201.wiki
 	url = https://github.com/mschober/eca201.wiki.git
