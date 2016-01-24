@@ -7,5 +7,5 @@ This course covers the basic elements of the object oriented programming paradig
 
 ### Lecture
 * Wednesdays - 3pm to 4pm in ???
-* [week 1](https://github.com/mschober/eca201-week1)
-* [week 2](https://github.com/mschober/eca201-week2)
+* [week 1](week1)
+* [week 2](week2)
