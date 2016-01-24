@@ -3,5 +3,4 @@
 
 
 ### Homework
-* save a copy of the text from running the help command from HelloObjectWorld.
-* 
+* [Problem 1](https://github.com/mschober/eca201/wiki/week02_topic05#problem-1)

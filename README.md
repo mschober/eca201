@@ -6,6 +6,6 @@ This course covers the basic elements of the object oriented programming paradig
 * Fridays - 12pm to 1pm in the lower lobby
 
 ### Lecture
-* Wednesdays - 3pm to 4pm in ???
+* Wednesdays - 3pm to 4pm in 8N - Lima
 * [week 1](week1)
 * [week 2](week2)
