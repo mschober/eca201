@@ -48,7 +48,15 @@ class HelloObjectWorld(object):
     * making the building blocks simple and focused on [*one concern*](https://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) is ideal
     * when building a solution the building blocks can be fit together to solve problems
 
-[ __underbar_underbar ](https://docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
+---
+
+### Classes help build blocks
+* An empty body isn't real exciting for a new class, but its nice to [*stub in*](https://en.wikipedia.org/wiki/Method_stub) a new idea and keep the code compiling
+* Before entring the brave new world of writing your own custom classes, take a look at some default behavior
+* The following block of code introduces the idea of *private* methods and variables
+    * [ __underbar_underbar ](https://docs.python.org/2/tutorial/classes.html#private-variables-and-class-local-references)
+* copy/paste the code block into a python shell
+* run `help(HelloToStringInheritance)` to see the help page
 
 ```python
 class HelloToStringInheritance(object):
@@ -60,13 +68,15 @@ class HelloToStringInheritance(object):
     def __str__(self):
         """
         Underbar underbar methods (__methodname__) are a convention for methods
-        belonging to a class. Some class methos are inherited from the parent
+        belonging to a class. Some class methods are inherited from the parent
         type Object. You can see the parent hierarchy by doing
-        import inspect
-        inspect(<object>)
+        ObjectType.__bases
         eg
-        inspect(HelloWorld)
-        If you help(Object) you'll see where these inherited classes come from.
+        HelloToStringInheritance.__bases__
+        
+        This class inherits from the simple type object. 
+        Objec has a private method __str__ which can be overriden
+        to define how the object is printed.
         """
         return self.__class__.__name__
 
