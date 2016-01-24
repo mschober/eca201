@@ -3,4 +3,4 @@
 
 
 ### Homework
-* [Problem 1](https://github.com/mschober/eca201/wiki/week02_topic05#problem01)
+* [Problem 1](https://github.com/mschober/eca201/wiki/week02_topic05#problem-1)
