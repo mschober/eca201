@@ -1,5 +1,5 @@
 ### Lecture
-* [slides](https://github.com/mschober/eca201/wiki)
+* [wiki topics](https://github.com/mschober/eca201/wiki)
 
 
 ### Homework
