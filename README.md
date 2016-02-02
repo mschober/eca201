@@ -9,3 +9,4 @@ This course covers the basic elements of the object oriented programming paradig
 * Wednesdays - 3pm to 4pm in 8N - Lima
 * [week 1](week1)
 * [week 2](week2)
+* [week 3](week3)
