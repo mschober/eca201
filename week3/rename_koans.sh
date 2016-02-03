@@ -13,9 +13,9 @@ echo "Moving current to next"
 mv python_koans.zip $next_koans
 
 echo "Replacing current with next in wiki"
-sed -i -e "s/$curr_koans/$next_koans/" ../ecapy101.wiki/setup_python_koans.rest
+sed -i -e "s/$curr_koans/$next_koans/" ../../eca201.wiki/setup_python_koans.rest
 
 echo "Verifying grep"
-grep -q $next_koans ../ecapy101.wiki/setup_python_koans.rest || echo "failed"
+grep -q $next_koans ../../eca201.wiki/setup_python_koans.rest || echo "failed"
 
 rm $curr_koans
