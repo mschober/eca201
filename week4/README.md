@@ -1,9 +1,7 @@
-## Week 3
+## Week 4 :dolphin:
 
-> Moving into week 3 will leave setup behind and bring :snake: to the for front. Over the course of the next several koan lessons (split up by file) we'll dive into more of the core Python topics. 
-> The python community actively maintains an interactive self paced python programming walkthrough. The material is actively updated and provides a progressively more difficult training. They sourced the idea from the ruby community. The ruby community built up the iterative practice idea from a zen concept named *koan*. The python koans are the focus of this week. First you'll need to configure your environment for the koans. Then you'll get to solve the first several koans. Continue to the lectures.
-
-Koans from the man who wrote them, Greg. [python_koans seminar - youtube](https://www.youtube.com/watch?v=M64aoqgVsMM)
+> In week 4 we'll reincarnate the openpyxl application, and begin knitting four weeks worth of programming into a useful application. Half way! You're leaving the mystery and magic of ojbect oriented programming behind and becoming capable of the basics. Continue doing the `python_koans` to add more tools to your toolbelt. 
+> `openpyxl` makes excel accessible to scripting, pipelining, and transforming raw data in workbooks. Imagination is the limit for how to use the library, but we'll use it somewhat academically at first to get OOP more cleary defined and practiced.
 
 ### Lecture
-* [wiki topics](https://github.com/mschober/eca201/wiki/week03)
+* [wiki topics](https://github.com/mschober/eca201/wiki/week04)
