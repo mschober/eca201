@@ -12,3 +12,4 @@ This course covers the basic elements of the object oriented programming paradig
 * [week 4](week4)
 * [week 5](week5)
 * [week 6](week6)
+* [week 7](week7)
