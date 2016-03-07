@@ -1,7 +1,7 @@
-## Week 7
+## Week 8
 #### of the :tiger:
 
-> Lets revisit the process of refactoring procedural code to OO.
+> Final day.
 
 ### Lecture
 * [wiki topics](https://github.com/eca-201-expedia/eca201/wiki/week08)
