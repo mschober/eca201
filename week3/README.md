@@ -6,4 +6,4 @@
 Koans from the man who wrote them, Greg. [python_koans seminar - youtube](https://www.youtube.com/watch?v=M64aoqgVsMM)
 
 ### Lecture
-* [wiki topics](https://github.com/mschober/eca201/wiki/week03)
+* [wiki topics](../../../wiki/week03)

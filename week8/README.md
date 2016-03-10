@@ -4,4 +4,4 @@
 > Final day.
 
 ### Lecture
-* [wiki topics](https://github.com/eca-201-expedia/eca201/wiki/week08)
+* [wiki topics](../../../wiki/week08)

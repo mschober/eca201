@@ -6,4 +6,4 @@
 > `openpyxl` makes excel accessible to scripting, pipelining, and transforming raw data in workbooks. Imagination is the limit for how to use the library, but we'll use it somewhat academically at first to get OOP more cleary defined and practiced.
 
 ### Lecture
-* [wiki topics](https://github.com/mschober/eca201/wiki/week04)
+* [wiki topics](../../../wiki/week04)
